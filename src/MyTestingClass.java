@@ -1,5 +1,3 @@
-import java.util.Random;
-
 public class MyTestingClass {
     private int id;
     private String name;
